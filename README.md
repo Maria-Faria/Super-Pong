@@ -12,6 +12,6 @@ Quem atingir 10 pontos primeiro vence
 - O jogador 1 utiliza W e S para mover sua raquete
 - O jogador 2 utiliza as setas para cima e para baixo para mover sua raquete
 #
-🎮 **JOGUE AQUI:**
+🎮 **JOGUE AQUI:** https://github.com/Maria-Faria/Super-Pong/releases/tag/v1.0
 ##
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c14db190-523b-4132-baca-eac879fdb2d3" />
